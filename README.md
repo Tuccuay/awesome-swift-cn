@@ -1,17 +1,19 @@
 # Awesome Swift CN
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-本列表是 [matteocrippa/awesome-swift](https://github.com/matteocrippa/awesome-swift) 的中文翻译。
-This repo is a [matteocrippa/awesome-swift](https://github.com/matteocrippa/awesome-swift) 's Simple Chinese Localization.
+* 本列表是 [matteocrippa/awesome-swift](https://github.com/matteocrippa/awesome-swift) 的中文翻译。
+* This repo is a [matteocrippa/awesome-swift](https://github.com/matteocrippa/awesome-swift) 's Simple Chinese Localization.
 
 一个涵盖了能在 iOS / OSX / tvOS / watchOS 和 Linux 上运行的框架、库和软件列表。
-以 🐧 符号标识的说明能在 Linux 上运行，以 🌚 符号标识的说明只存在于 `Tuccuay/awesome-swift-cn` 而没有被添加到 `matteocrippa/awesome-swift `。
+
+* 以 🐧 符号标识的说明能在 Linux 上运行
+* 以 🌚 符号标识的说明只存在于 `Tuccuay/awesome-swift-cn` 而没有被添加到 `matteocrippa/awesome-swift `。
 
 ### 参与贡献
 
 请先查看 [contribution guidelines](/CONTRIBUTING.md) ，感谢所有作出贡献的人们。
-[matteocrippa/awesome-swift 贡献列表](https://github.com/matteocrippa/awesome-swift/graphs/contributors)
- [Tuccuay/awesome-swift-cn 贡献列表](https://github.com/Tuccuay/awesome-swift-cn/graphs/contributors)
+* [matteocrippa/awesome-swift 贡献列表](https://github.com/matteocrippa/awesome-swift/graphs/contributors)
+* [Tuccuay/awesome-swift-cn 贡献列表](https://github.com/Tuccuay/awesome-swift-cn/graphs/contributors)
 
 
 ### 目录
