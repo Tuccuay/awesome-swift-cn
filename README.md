@@ -98,27 +98,27 @@
 - [Tools / 工具](#tools)
   - [Documentation / 文档](#documentation)
 
-## Demo Apps
-*Some interesting demo/poc apps written in Swift.*
+## Demo Apps / 示例程序
+*用 swift 实现的一些有趣的小玩意儿。 *
 
 ### iOS
-*A list of iOS Swift demo apps*
+*用 swift 实现的 iOS 示例程序列表*
 
-* [2048](https://github.com/austinzheng/swift-2048) - 2048 demo game in Swift.
-* [Alarm](https://github.com/ChrisChares/swift-alarm) - an alarm app in Swift.
-* [Cafe](https://github.com/flexih/Cafe) - Cafe App in Swift.
-* [Chat](https://github.com/acani/Chats) - chat like app implementation in Swift.
-* [CloudKit-To-Do-List](https://github.com/anthonygeranio/CloudKit-To-Do-List) - a cloudkit based to do list.
-* [DeckRocket](https://github.com/jpsim/DeckRocket) - deckrocket porting in Swift.
-* [Edhita](https://github.com/tnantoka/edhita) - text edit app.
-* [Eidolon](https://github.com/artsy/eidolon) - The Artsy auction kiosk app.
-* [Federal Open Data](https://github.com/USDepartmentofLabor/Swift-Sample-App) - Get federal Open Data using the Federal Data SDK
-* [Feeds4U](https://github.com/EvgenyKarkan/Feeds4U) - Well architectured RSS reader app written in Swift.
-* [firefox-ios](https://github.com/mozilla/firefox-ios) - firefox for iOS being developed by Mozilla.
-* [FlappySwift](https://github.com/fullstackio/FlappySwift) - flappy bird clone in Swift.
-* [GrubbyWorm](https://github.com/gamechina/GrubbyWorm) - gameplaykit and spritekit demo game.
-* [HackerNews](https://github.com/amitburst/HackerNews) - hackernews reader app written in Swift.
-* [HackerNewsClient-iOS](https://github.com/NikantVohra/HackerNewsClient-iOS) - hackernews client in Swift.
+* [2048](https://github.com/austinzheng/swift-2048) - 2048 游戏示例.
+* [Alarm](https://github.com/ChrisChares/swift-alarm) - 一个闹钟应用.
+* [Cafe](https://github.com/flexih/Cafe) - 一个用于寻找咖啡店的应用.
+* [Chat](https://github.com/acani/Chats) - 用 swift 实现的聊天应用.
+* [CloudKit-To-Do-List](https://github.com/anthonygeranio/CloudKit-To-Do-List) - 整合了 CloudKit 的 TODO 应用.
+* [DeckRocket](https://github.com/jpsim/DeckRocket) - Deckset 的 swift 实现.
+* [Edhita](https://github.com/tnantoka/edhita) - 文本编辑应用.
+* [Eidolon](https://github.com/artsy/eidolon) - 一个艺术品拍卖应用.
+* [Federal Open Data](https://github.com/USDepartmentofLabor/Swift-Sample-App) - 使用 Federal Data SDK 从美国劳务部获取信息
+* [Feeds4U](https://github.com/EvgenyKarkan/Feeds4U) - 一个 RSS 阅读器.
+* [firefox-ios](https://github.com/mozilla/firefox-ios) -火狐浏览器.
+* [FlappySwift](https://github.com/fullstackio/FlappySwift) - 使用 swift 复刻的 Flappy Bird.
+* [GrubbyWorm](https://github.com/gamechina/GrubbyWorm) - 使用 GameplayKit 和 SpriteKit 创建的示例游戏.
+* [HackerNews](https://github.com/amitburst/HackerNews) - Hacker News 阅读器.
+* [HackerNewsClient-iOS](https://github.com/NikantVohra/HackerNewsClient-iOS) - Hacker News 客户端.
 * [HausClock](https://github.com/nottombrown/HausClock) - chess stile clock app in Swift.
 * [HealthKitDemo](https://github.com/Darktt/HealthKit-Swift) - health kit demo app.
 * [HomeKitDemo](https://github.com/KhaosT/HomeKit-Demo) - homekit demo app.
