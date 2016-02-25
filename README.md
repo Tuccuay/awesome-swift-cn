@@ -119,21 +119,21 @@
 * [GrubbyWorm](https://github.com/gamechina/GrubbyWorm) - 使用 GameplayKit 和 SpriteKit 创建的示例游戏.
 * [HackerNews](https://github.com/amitburst/HackerNews) - Hacker News 阅读器.
 * [HackerNewsClient-iOS](https://github.com/NikantVohra/HackerNewsClient-iOS) - Hacker News 客户端.
-* [HausClock](https://github.com/nottombrown/HausClock) - chess stile clock app in Swift.
-* [HealthKitDemo](https://github.com/Darktt/HealthKit-Swift) - health kit demo app.
-* [HomeKitDemo](https://github.com/KhaosT/HomeKit-Demo) - homekit demo app.
-* [iContactU](https://github.com/rizal72/iContactU) - delivered on Apple Store: reminds you to contact people you ought to.
-* [iOS-9-Sampler](https://github.com/shu223/iOS-9-Sampler) - Code examples for the new features of iOS 9.
-* [KeychainDemo](https://github.com/dasdom/KeychainDemo) - keychain sharing between an App and it's share extension
-* [Layer Parse Sample Chat App](https://github.com/kwkhaw/Layer-Parse-iOS-Swift-Example) - Swift sample app that integrates Layer and Atlas with Parse.
-* [LayerPlayer](https://github.com/scotteg/LayerPlayer) - explores CALayer and subclasses; written in Swift; also on App Store.
-* [Lucid Weather Clock](https://github.com/wrutkowski/Lucid-Weather-Clock) - Hyper-local weather app with precipitation clock developed in Swift.
-* [MyAwesomeChecklist](https://github.com/imod/MyAwesomeChecklist) - checklist app in Swift.
-* [Path Logger](https://github.com/eugenpirogoff/pathlogger) - a GPS Path Logger with Core Data.
-* [Pocket Forecast](https://github.com/appsquickly/Typhoon-Swift-Example) - typhoon weather example.
-* [ReactiveSwiftFlickrSearch](https://github.com/ColinEberhardt/ReactiveSwiftFlickrSearch) - an MVVM & ReactiveCocoa Flickr search app in Swift.
-* [Reusable Apps Code](https://github.com/beiOSDev/Swift) - a collection of reusable pieces of code in Swift.
-* [Round & Split](https://github.com/lukhnos/roundandsplit) - a tip calculator in Swift
+* [HausClock](https://github.com/nottombrown/HausClock) - 国际象棋计时器.
+* [HealthKitDemo](https://github.com/Darktt/HealthKit-Swift) - 根据 Apple Demo - HealthKit 重制的 Swift 版本.
+* [HomeKitDemo](https://github.com/KhaosT/HomeKit-Demo) - 根据 Apple Demo - HomeKit 重制的 Swift 版本.
+* [iContactU](https://github.com/rizal72/iContactU) - 提醒你在特定的时间给某人打电话.
+* [iOS-9-Sampler](https://github.com/shu223/iOS-9-Sampler) - iOS 新特性演示.
+* [KeychainDemo](https://github.com/dasdom/KeychainDemo) - 使用 Share Extension 在不用的应用间共享 Keychain.
+* [Layer Parse Sample Chat App](https://github.com/kwkhaw/Layer-Parse-iOS-Swift-Example) - Layer-Parse 的 Swift 重置版本.
+* [LayerPlayer](https://github.com/scotteg/LayerPlayer) - CALayer 及其子类的动画示例.
+* [Lucid Weather Clock](https://github.com/wrutkowski/Lucid-Weather-Clock) - 一款显示当地天气的时钟应用.
+* [MyAwesomeChecklist](https://github.com/imod/MyAwesomeChecklist) - 简洁的检查列表.
+* [Path Logger](https://github.com/eugenpirogoff/pathlogger) - 一个 GPS 路径记录程序.
+* [Pocket Forecast](https://github.com/appsquickly/Typhoon-Swift-Example) - 为 typhoon 构建的天气示例.
+* [ReactiveSwiftFlickrSearch](https://github.com/ColinEberhardt/ReactiveSwiftFlickrSearch) - 一个使用 MVVM 和 ReactiveCocoa 的 Filckr 搜索应用.
+* [Reusable Apps Code](https://github.com/beiOSDev/Swift) - 一个 Swift 的可复用代码列表.
+* [Round & Split](https://github.com/lukhnos/roundandsplit) - 小费计算器.
 * [SafariAutoLoginTest](https://github.com/mackuba/SafariAutoLoginTest) - a demo showing how you can auto-login users to an iOS app (on iOS 9) based on Safari cookies.
 * [StateRestorationDemo](https://github.com/shagedorn/StateRestorationDemo) - learn how to implement state restoration in (Swift) code.
 * [Static-icon-shortcuts-sample](https://github.com/stringcode86/Static-icon-shortcuts-sample) - a sample app demonstrates how to add iOS 9’s Quick Actions shortcut support using 3D touch API.
