@@ -583,6 +583,7 @@
 
 * [CleanroomASL](https://github.com/emaloney/CleanroomASL) 🐧 — Low-level Swift API for writing to and reading from the Apple System Log daemon.
 * [CleanroomLogger](https://github.com/emaloney/CleanroomLogger) 🐧 — Configurable and extensible high-level logging API that is simple, lightweight and performant.
+* [HeliumLogger](https://github.com/IBM-Swift/HeliumLogger) 🐧 - IBM's lightweight logging framework.
 * [Log](https://github.com/delba/Log) - A logging tool with built-in themes, formatters, and a nice API to define your owns.
 * [Puree](https://github.com/cookpad/puree-ios) - A log collector for iOS.
 * [QorumLogs](https://github.com/goktugyil/QorumLogs) — Swift Logging Utility for Xcode & Google Docs.
@@ -655,6 +656,7 @@
 * [Express](https://github.com/crossroadlabs/Express) - Swift Web Application framework, supporting both Synchronous and Asynchronous (Futures based) styles. Inspired by Play framework and Express.js.
 * [Frank](https://github.com/nestproject/Frank) 🐧 - Frank is a DSL for quickly writing web applications in Swift.
 * [http4swift](https://github.com/takebayashi/http4swift) 🐧 - A simple HTTP server written in Swift.
+* [Kitura](https://github.com/IBM-Swift/Kitura) 🐧 - IBM's web framework and server for web services written in Swift.
 * [Kunugi](https://github.com/novi/Kunugi) 🐧 - Minimal web framework and middleware for Swift.
 * [NetworkObjects](https://github.com/colemancda/NetworkObjects) - REST HTTP Server written in Swift. Builds REST API from Core Data.
 * [Perfect](https://github.com/PerfectlySoft/Perfect) 🐧 - Server-side Swift. The Perfect library, application server, connectors and example apps.
@@ -669,6 +671,7 @@
 
 #### Websocket
 
+* [BlueSocket](https://github.com/IBM-Swift/BlueSocket) 🐧 - IBM's low level socket framework.
 * [Socket.IO](https://github.com/socketio/socket.io-client-swift) 🐧 - Socket.IO client for iOS/OS X.
 * [SocketIO-Kit](https://github.com/ricardopereira/SocketIO-Kit) - Socket.io iOS and OSX Client.
 * [Starscream](https://github.com/daltoniam/Starscream) - Websockets in swift for iOS and OSX.
